@@ -1,0 +1,16 @@
+C:\Users\David\OneDrive - Kormányzati Informatikai Fejlesztési Ügynökség\source\repos\Eternal\bin\Debug\net6.0\Server.exe
+C:\Users\David\OneDrive - Kormányzati Informatikai Fejlesztési Ügynökség\source\repos\Eternal\bin\Debug\net6.0\Server.deps.json
+C:\Users\David\OneDrive - Kormányzati Informatikai Fejlesztési Ügynökség\source\repos\Eternal\bin\Debug\net6.0\Server.runtimeconfig.json
+C:\Users\David\OneDrive - Kormányzati Informatikai Fejlesztési Ügynökség\source\repos\Eternal\bin\Debug\net6.0\Server.dll
+C:\Users\David\OneDrive - Kormányzati Informatikai Fejlesztési Ügynökség\source\repos\Eternal\bin\Debug\net6.0\ref\Server.dll
+C:\Users\David\OneDrive - Kormányzati Informatikai Fejlesztési Ügynökség\source\repos\Eternal\bin\Debug\net6.0\Server.pdb
+C:\Users\David\OneDrive - Kormányzati Informatikai Fejlesztési Ügynökség\source\repos\Eternal\obj\Debug\net6.0\Eternal.csproj.AssemblyReference.cache
+C:\Users\David\OneDrive - Kormányzati Informatikai Fejlesztési Ügynökség\source\repos\Eternal\obj\Debug\net6.0\Eternal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David\OneDrive - Kormányzati Informatikai Fejlesztési Ügynökség\source\repos\Eternal\obj\Debug\net6.0\Eternal.AssemblyInfoInputs.cache
+C:\Users\David\OneDrive - Kormányzati Informatikai Fejlesztési Ügynökség\source\repos\Eternal\obj\Debug\net6.0\Eternal.AssemblyInfo.cs
+C:\Users\David\OneDrive - Kormányzati Informatikai Fejlesztési Ügynökség\source\repos\Eternal\obj\Debug\net6.0\Eternal.ImplicitNamespaceImports.cs
+C:\Users\David\OneDrive - Kormányzati Informatikai Fejlesztési Ügynökség\source\repos\Eternal\obj\Debug\net6.0\Eternal.csproj.CoreCompileInputs.cache
+C:\Users\David\OneDrive - Kormányzati Informatikai Fejlesztési Ügynökség\source\repos\Eternal\obj\Debug\net6.0\Server.dll
+C:\Users\David\OneDrive - Kormányzati Informatikai Fejlesztési Ügynökség\source\repos\Eternal\obj\Debug\net6.0\ref\Server.dll
+C:\Users\David\OneDrive - Kormányzati Informatikai Fejlesztési Ügynökség\source\repos\Eternal\obj\Debug\net6.0\Server.pdb
+C:\Users\David\OneDrive - Kormányzati Informatikai Fejlesztési Ügynökség\source\repos\Eternal\obj\Debug\net6.0\Eternal.genruntimeconfig.cache
